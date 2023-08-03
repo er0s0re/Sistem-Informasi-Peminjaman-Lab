@@ -38,8 +38,9 @@ Teknologi yang digunakan untuk membuat sistem informasi ini adalah:
 - Gulir ke bawah dan klik "Import"
 
 ## Cara menggunakan:
-- Buka browser dan akses : 'localhost/lab/Login'
-- Jalankan program tersebut dengan login sebagai mahasiswa atau admin
+1) Buka browser dan akses : 'localhost/lab/Login'
+  - Jalankan program tersebut dengan login sebagai mahasiswa atau admin
+2) Via Online tanpa Menginstall : https://penjinakberuang.000webhostapp.com
 
 ## Laporan 
   'https://drive.google.com/file/d/1bAfwBE4UvUIx9f7AKrF96Abk9eEj3fDA/view?usp=sharing'
