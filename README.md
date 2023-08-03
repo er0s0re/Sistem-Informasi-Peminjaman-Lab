@@ -57,4 +57,4 @@ Proyek ini dikerjakan oleh tim The Zeus Nganu Laboratory yang terdiri dari:
 Proyek ini dibimbing oleh Hery Mustofa, M.Kom sebagai dosen pengampu mata kuliah pemrograman web di Program Studi Teknologi Informasi Fakultas Sains dan Teknologi Universitas Islam Negeri Walisongo Semarang.
 
 ## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk detailnya.
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat berkas [LICENSE](LICENSE) untuk detailnya.
