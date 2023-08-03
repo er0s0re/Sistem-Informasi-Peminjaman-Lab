@@ -26,7 +26,7 @@ Teknologi yang digunakan untuk membuat sistem informasi ini adalah:
 - Tools: Visual Studio Code, XAMPP
 
 ## Cara install:
-- Unduh file zip dari link ini (https://drive.google.com/file/d/1xvgUjqesLGIxuhYlPOkQAgsDXppaQbrL/view?usp=drive_link)
+- Unduh file zip dari link ini https://drive.google.com/file/d/1xvgUjqesLGIxuhYlPOkQAgsDXppaQbrL/view?usp=drive_link
 - Ekstrak file zip ke dalam folder htdocs yang ada di direktori C:\xampp
 - Pastikan nama folder hasil ekstrak adalah "lab", sehingga lokasinya menjadi C:\xampp\htdocs\lab
 - Buka software XAMPP dan aktifkan modul Apache, MySQL, dan FileZilla
@@ -38,12 +38,12 @@ Teknologi yang digunakan untuk membuat sistem informasi ini adalah:
 - Gulir ke bawah dan klik "Import"
 
 ## Cara menggunakan:
-1) Buka browser dan akses : 'localhost/lab/Login'
+1) Buka browser dan akses : localhost/lab/Login/
   - Jalankan program tersebut dengan login sebagai mahasiswa atau admin
 2) Via Online tanpa Menginstall : https://penjinakberuang.000webhostapp.com
 
 ## Laporan 
-  'https://drive.google.com/file/d/1bAfwBE4UvUIx9f7AKrF96Abk9eEj3fDA/view?usp=sharing'
+  https://drive.google.com/file/d/1bAfwBE4UvUIx9f7AKrF96Abk9eEj3fDA/view?usp=sharing
 
 ## Anggota Tim
 Proyek ini dikerjakan oleh tim The Zeus Nganu Laboratory yang terdiri dari:
