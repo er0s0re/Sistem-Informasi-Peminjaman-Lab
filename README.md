@@ -25,6 +25,25 @@ Teknologi yang digunakan untuk membuat sistem informasi ini adalah:
 - Back-end: Apache
 - Tools: Visual Studio Code, XAMPP
 
+## Cara install:
+- Unduh file zip dari link ini (https://drive.google.com/file/d/1xvgUjqesLGIxuhYlPOkQAgsDXppaQbrL/view?usp=drive_link)
+- Ekstrak file zip ke dalam folder htdocs yang ada di direktori C:\xampp
+- Pastikan nama folder hasil ekstrak adalah "lab", sehingga lokasinya menjadi C:\xampp\htdocs\lab
+- Buka software XAMPP dan aktifkan modul Apache, MySQL, dan FileZilla
+- Buka browser dan masukkan URL http://localhost/phpmyadmin/
+- Klik "New" untuk membuat database baru
+- Beri nama database "the_lab" lalu klik "Create"
+- Klik database "the_lab" yang sudah dibuat, lalu klik "Import"
+- Klik "Choose File" dan pilih file "the_lab.sql" yang ada di folder db di dalam folder lab yang sudah diekstrak
+- Gulir ke bawah dan klik "Import"
+
+## Cara menggunakan:
+- Buka browser dan akses : 'localhost/lab/Login'
+- Jalankan program tersebut dengan login sebagai mahasiswa atau admin
+
+## Laporan 
+  'https://drive.google.com/file/d/1bAfwBE4UvUIx9f7AKrF96Abk9eEj3fDA/view?usp=sharing'
+
 ## Anggota Tim
 Proyek ini dikerjakan oleh tim The Zeus Nganu Laboratory yang terdiri dari:
 
